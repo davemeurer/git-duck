@@ -1,5 +1,5 @@
 ## Overview ##
-Duck Hub demo is a fictitious application that is purposely vulnerable with GPL code.
+Git Duck is a fictitious application that is purposely vulnerable with GPL code.
 
 ## Build ##
 
